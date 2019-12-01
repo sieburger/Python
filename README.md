@@ -1,2 +1,2 @@
 # Python
-Simple Python Studies
+Python Studies
