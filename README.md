@@ -1,2 +1,2 @@
 # Python
-Python Studies
+Micelaneous Python Studies
