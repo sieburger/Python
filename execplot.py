@@ -1,4 +1,4 @@
-o#!/usr/bin/python
+#!/usr/bin/python
 #
 #execplot.py
 # Plot genetator for anemometric station datalogger data analysis csv sourced by statistics of the day:24h, 144@logs/10min. Sample voltage(V) and current(I).
