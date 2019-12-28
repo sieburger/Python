@@ -1,7 +1,7 @@
-#!/usr/bin/python
+o#!/usr/bin/python
 #
 #execplot.py
-# Plot genetator for D154004.ammonit.datalogger data analysis csv sourced.
+# Plot genetator for anemometric station datalogger data analysis csv sourced by statistics of the day:24h, 144@logs/10min. Sample voltage(V) and current(I).
 #Shine on source: https://codinginfinite.com/data-visualizing-csv-format-chart-using-python-matplotlib/
 #$ python execplot.py
 import csv
